@@ -10,7 +10,20 @@ Platform: Retell AI
 
 ### 3. Call Recordings
 
-Public links to the test call recordings will be provided here.
+The audio recordings and corresponding transcripts for the test scenarios are available here:
+
+**Google Drive Folder:** [https://drive.google.com/drive/folders/1xs6nIoCgXlEZznWAZj6WPdi9eiKcX-Qt?usp=sharing]
+
+### Test Scenarios
+
+1. Eligible customer
+2. Agricultural property
+3. Cash income
+4. Existing loan and EMI reduction
+5. Loan amount above ₹75 lakh
+6. Busy customer and callback
+7. Out-of-order information
+
 
 ### 4. Audio Transcripts
 
